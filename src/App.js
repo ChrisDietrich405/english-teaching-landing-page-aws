@@ -21,7 +21,7 @@ function App() {
           <div className="name-block">
             <h1>
               Chris <br />
-              Dietrich ok
+              Dietrich 
             </h1>
             <h2>Professor de Inglês</h2>
           </div>

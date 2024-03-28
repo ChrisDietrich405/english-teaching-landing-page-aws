@@ -9,7 +9,7 @@ phases:
       - npm install
   pre_build:
     commands:
-      - echo "Linting code..."
+      - echo "Running the test"
       - npm run test
   build:
     commands:
