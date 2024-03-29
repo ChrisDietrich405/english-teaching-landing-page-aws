@@ -20,3 +20,9 @@ phases:
       - echo "Running tests..."
       # Include your test commands here
       - npm test
+
+artifacts:
+  files:
+    - '**/*'
+  base-directory: 'build'
+
